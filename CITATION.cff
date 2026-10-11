@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository; cite the journal article separately when published."
+title: "LIDC 3D Zernike — Pulmonary Nodule Morphology Analysis"
+type: software
+authors:
+  - family-names: "Wei"
+    given-names: "Chia-Hung"
+version: "0.1.0"
+license: MIT
